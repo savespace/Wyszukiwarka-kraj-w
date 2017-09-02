@@ -1,0 +1,27 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "scountry",
+  "main": "index.js",
+  "scripts": {
+    "test": "sc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savespace/Wyszukiwarka-kraj-w.git"
+  },
+  "keywords": [
+    "sc"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/Wyszukiwarka-kraj-w/issues"
+  },
+  "homepage": "https://github.com/savespace/Wyszukiwarka-kraj-w#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
